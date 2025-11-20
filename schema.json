@@ -1,0 +1,8 @@
+{
+  "name": "Accounting",
+  "tuples_limit": 1000,
+  "structure": {
+    "users": ["name", "age", "city"],
+    "orders": ["user_id", "product", "price"]
+  }
+}
